@@ -1,2 +1,2 @@
 # testing
-To Practice pull request and merge options of git - Ramu Kandregula
+To Practice pull request and merge options of git - Ramu Kandregula - branch 2
